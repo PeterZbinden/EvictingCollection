@@ -5,9 +5,9 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<Authors>Peter Zbinden</Authors>
-		<PackageProjectUrl>https://github.com/PeterZbinden/SlidingCollection</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/PeterZbinden/EvictingCollection</PackageProjectUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	</PropertyGroup>
 
