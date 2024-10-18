@@ -1,4 +1,4 @@
-[NuGet.org](https://github.com/PeterZbinden/EvictingCollection)
+[NuGet.org](https://www.nuget.org/packages/EvictingCollection)
 
 # Evicting Collection
 A library that simplifies the handling of changing sets of data that have to be processed together based on some criteria.
